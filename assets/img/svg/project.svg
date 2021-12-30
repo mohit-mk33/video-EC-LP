@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2013.194" height="1993.829" viewBox="0 0 2013.194 1993.829">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8731E8"/>
+      <stop offset="1" stop-color="#4528DC"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4528DC"/>
+      <stop offset="1" stop-color="#8731E8"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1126" data-name="Group 1126" transform="translate(5 1000)">
+    <circle id="circle_2" data-name="circle 2" r="600" transform="matrix(0.629, 0.777, -0.777, 0.629, 309.604, -674.43)" fill="url(#linear-gradient)" opacity="0.5"/>
+    <!-- <circle id="circle_3" data-name="circle 3" width="404" height="443" rx="54" transform="matrix(0.629, 0.777, -0.777, 0.629, 76.754, -52.796)" fill="#fff" opacity="0.12"/> -->
+    
+  </g>
+</svg>
